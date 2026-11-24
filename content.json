@@ -1,0 +1,28 @@
+{
+  "heroTitle": "Um lugar para fortalecer sua fé.",
+  "heroSubtitle": "Uma família que adora a Deus, compartilha esperança e caminha unida em Cristo.",
+  "aboutTitle": "Fé que acolhe. Esperança que transforma.",
+  "aboutText": "Somos a Igreja Adventista do Sétimo Dia de Santa Isabel. Um espaço de adoração, amizade, aprendizado da Palavra de Deus e serviço à comunidade. Será uma alegria receber você!",
+  "verse": "“Pois onde se reunirem dois ou três em meu nome, ali eu estou no meio deles.”",
+  "verseRef": "Mateus 18:20",
+  "schedule": [
+    {
+      "day": "SÁBADO",
+      "title": "Escola Sabatina",
+      "time": "Horário a confirmar"
+    },
+    {
+      "day": "SÁBADO",
+      "title": "Culto de Adoração",
+      "time": "Horário a confirmar"
+    },
+    {
+      "day": "QUARTA-FEIRA",
+      "title": "Culto de Oração",
+      "time": "Horário a confirmar"
+    }
+  ],
+  "gallery": [],
+  "socials": [],
+  "maps": ""
+}
