@@ -7,19 +7,19 @@
   "verseRef": "Mateus 18:20",
   "schedule": [
     {
-      "day": "SÁBADO",
-      "title": "Escola Sabatina",
-      "time": "Horário a confirmar"
-    },
-    {
-      "day": "SÁBADO",
-      "title": "Culto de Adoração",
-      "time": "Horário a confirmar"
+      "day": "DOMINGO",
+      "title": "Culto",
+      "time": "19:15 da noite"
     },
     {
       "day": "QUARTA-FEIRA",
-      "title": "Culto de Oração",
-      "time": "Horário a confirmar"
+      "title": "Culto de Adoração",
+      "time": "19:15 da noite"
+    },
+    {
+      "day": "SÁBADO",
+      "title": "Escola Sabatina",
+      "time": "8:00 da manhã"
     }
   ],
   "socials": [
