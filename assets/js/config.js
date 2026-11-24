@@ -1,4 +1,4 @@
-// Preencha com os dados do seu repositório GitHub.
+// Configuração do repositório GitHub da Igreja Adventista Santa Isabel.
 window.SITE_CONFIG = {
   owner: "iasdsantaisabel",
   repo: "site",

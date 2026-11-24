@@ -3,14 +3,14 @@
 Site institucional estático para GitHub Pages, com painel administrativo em `/admin`.
 
 ## 1. Configurar o repositório
-1. Crie um repositório público chamado `igreja-santa-isabel` no GitHub.
+1. Use o repositório público `iasdsantaisabel/site` no GitHub.
 2. Envie todos os arquivos desta pasta para a raiz do repositório.
-3. Edite `assets/js/config.js`: preencha `owner` com seu usuário do GitHub e confirme `repo` e `branch`.
+3. A configuração já está preenchida em `assets/js/config.js` para `iasdsantaisabel/site`, branch `main`.
 4. No repositório, acesse **Settings → Pages**.
 5. Em **Build and deployment**, escolha **Deploy from a branch**, selecione `main` e `/ (root)`, e salve.
 
 ## 2. Usar o painel
-Abra `https://SEU_USUARIO.github.io/igreja-santa-isabel/admin/`.
+Abra `https://iasdsantaisabel.github.io/site/admin/`.
 
 Para editar, crie um token Fine-grained em GitHub → Settings → Developer settings → Personal access tokens. Limite-o a este repositório e conceda **Contents: Read and write**. Use o token no painel. Ele é mantido apenas na sessão atual do navegador; não o coloque nos arquivos do site nem o compartilhe.
 

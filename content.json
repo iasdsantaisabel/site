@@ -7,27 +7,23 @@
   "verseRef": "Mateus 18:20",
   "schedule": [
     {
-      "day": "DOMINGO",
-      "title": "Culto",
-      "time": "19:15 da noite"
-    },
-    {
-      "day": "QUARTA-FEIRA",
-      "title": "Culto de Adoração",
-      "time": "19:15 da noite"
+      "day": "SÁBADO",
+      "title": "Escola Sabatina",
+      "time": "Horário a confirmar"
     },
     {
       "day": "SÁBADO",
-      "title": "Escola Sabatina",
-      "time": "8:00 da manhã"
-    }
-  ],
-  "socials": [
+      "title": "Culto de Adoração",
+      "time": "Horário a confirmar"
+    },
     {
-      "name": "Instagram",
-      "url": "https://www.instagram.com/adventistas.santaisabel/"
+      "day": "QUARTA-FEIRA",
+      "title": "Culto de Oração",
+      "time": "Horário a confirmar"
     }
   ],
   "gallery": [],
-  "maps": ""
+  "socials": [],
+  "maps": "",
+  "logo": ""
 }
