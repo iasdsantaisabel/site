@@ -22,7 +22,12 @@
       "time": "Horário a confirmar"
     }
   ],
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/adventistas.santaisabel/"
+    }
+  ],
   "gallery": [],
-  "socials": [],
   "maps": ""
 }
